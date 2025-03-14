@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thank you very much for viewing my GitHub profile.
+- I am a junior student at [International Professional Univesity of Technology in Tokyo](https://www.iput.ac.jp/tokyo/ ""), and I'm enrolled in the Robotics Development course there.
+- I migrated to this account a years ago from a previous GitHub account. Here is [the link](https://github.com/telur4 "") to the previous GitHub account.
