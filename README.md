@@ -20,3 +20,6 @@ Thank you very much for viewing my GitHub profile.
 - And I also learning **Computer Science** at [42 Tokyo](https://42tokyo.jp/ ""), one of the French engineer training schools called [École 42](https://42.fr/en/homepage/ "") that has introduced a peer-learning system.
 - My interest is in **Human-Computer Interaction (HCI)**, communication between humans and computers.
 - I migrated to this account a years ago from a previous GitHub account. Here is [the link](https://github.com/telur4 "") to it.
+
+[![eng-telur4's github stats](https://github-readme-stats.vercel.app/api?username=eng-telur4&show_icons=true&count_private=true&theme=github_dark)](https://github.com/eng-telur4/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-telur4&show_icons=true&count_private=true&theme=github_dark)](https://github.com/eng-telur4/)
