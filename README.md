@@ -23,5 +23,5 @@ Thank you very much for viewing my GitHub profile.
 
 ### Status
 
-[![eng-telur4's github stats](https://github-readme-stats.vercel.app/api?username=eng-telur4&show_icons=true&count_private=true&theme=github_light)](https://github.com/eng-telur4/)
+[![Shotaro Kamijo's github stats](https://github-readme-stats.vercel.app/api?username=eng-telur4&show_icons=true&count_private=true&theme=github_light)](https://github.com/eng-telur4/)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-telur4&show_icons=true&count_private=true&theme=github_light)](https://github.com/eng-telur4/)
